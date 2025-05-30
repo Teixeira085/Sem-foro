@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7766FDC6-26C1-42DB-9A8B-4CEDDFEBA72A}|Sem\u00E1foro\\Sem\u00E1foro.csproj|c:\\users\\rafael.tsantos6\\source\\repos\\sem\u00E1foro\\sem\u00E1foro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7766FDC6-26C1-42DB-9A8B-4CEDDFEBA72A}|Sem\u00E1foro\\Sem\u00E1foro.csproj|solutionrelative:sem\u00E1foro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7766FDC6-26C1-42DB-9A8B-4CEDDFEBA72A}|Sem\u00E1foro\\Sem\u00E1foro.csproj|C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\sem\u00E1foro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7766FDC6-26C1-42DB-9A8B-4CEDDFEBA72A}|Sem\u00E1foro\\Sem\u00E1foro.csproj|solutionrelative:sem\u00E1foro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7766FDC6-26C1-42DB-9A8B-4CEDDFEBA72A}|Sem\u00E1foro\\Sem\u00E1foro.csproj|C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\sem\u00E1foro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7766FDC6-26C1-42DB-9A8B-4CEDDFEBA72A}|Sem\u00E1foro\\Sem\u00E1foro.csproj|solutionrelative:sem\u00E1foro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\Sem\u00E1foro\\Form1.cs",
+              "RelativeDocumentMoniker": "Sem\u00E1foro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\Sem\u00E1foro\\Form1.cs",
+              "RelativeToolTip": "Sem\u00E1foro\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:47:37.193Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\Sem\u00E1foro\\Form1.cs",
+              "RelativeDocumentMoniker": "Sem\u00E1foro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\Sem\u00E1foro\\Form1.cs [Design]",
+              "RelativeToolTip": "Sem\u00E1foro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:39:09.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\Sem\u00E1foro\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Sem\u00E1foro\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Rafael.tsantos6\\source\\repos\\Sem\u00E1foro\\Sem\u00E1foro\\Form1.Designer.cs",
+              "RelativeToolTip": "Sem\u00E1foro\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:33:50.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
